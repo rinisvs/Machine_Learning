@@ -1,4 +1,4 @@
-<b>Machine Learning projects in Python</b>
+<b>Machine Learning projects</b>
 
 1. Supervised Machine Learning 
 -  Project: Personal Loan Campaign Modelling
